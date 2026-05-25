@@ -1,0 +1,1 @@
+g++ -std=c++20 -O2 src/csv.cpp src/marketplace.cpp src/main.cpp -o utmn
